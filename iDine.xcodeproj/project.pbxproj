@@ -16,6 +16,7 @@
 		8B4B016A27A753EF00DD0CDE /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B4B016727A753EF00DD0CDE /* Order.swift */; };
 		8B4B016C27A756BD00DD0CDE /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B4B016B27A756BD00DD0CDE /* Helper.swift */; };
 		8B4B017027A75A4400DD0CDE /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B4B016F27A75A4400DD0CDE /* ItemRow.swift */; };
+		8BBC939E27A8CBF400DE8B2C /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BBC939D27A8CBF400DE8B2C /* ItemDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		8B4B016727A753EF00DD0CDE /* Order.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		8B4B016B27A756BD00DD0CDE /* Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
 		8B4B016F27A75A4400DD0CDE /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
+		8BBC939D27A8CBF400DE8B2C /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				8B4B014F27A753A700DD0CDE /* iDineApp.swift */,
 				8B4B016B27A756BD00DD0CDE /* Helper.swift */,
 				8B4B015127A753A700DD0CDE /* ContentView.swift */,
+				8BBC939D27A8CBF400DE8B2C /* ItemDetail.swift */,
 				8B4B016F27A75A4400DD0CDE /* ItemRow.swift */,
 				8B4B016527A753EF00DD0CDE /* menu.json */,
 				8B4B016627A753EF00DD0CDE /* Menu.swift */,
@@ -153,6 +156,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8BBC939E27A8CBF400DE8B2C /* ItemDetail.swift in Sources */,
 				8B4B016927A753EF00DD0CDE /* Menu.swift in Sources */,
 				8B4B015227A753A700DD0CDE /* ContentView.swift in Sources */,
 				8B4B016C27A756BD00DD0CDE /* Helper.swift in Sources */,
